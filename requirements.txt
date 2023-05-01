@@ -37,7 +37,7 @@ ecdsa==0.11
 Elixir==0.7.1
 enum34==1.0.3
 feedparser==5.1.3
-Flask==0.10.1
+Flask==2.3.2
 flickrapi==1.2
 funkload==1.16.1
 fuse-python==0.2.1

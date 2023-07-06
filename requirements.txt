@@ -139,7 +139,7 @@ rfidiot==1.0
 roman==2.0.0
 Routes==2.0
 scapy==2.2.0
-scipy==0.14.0
+scipy==1.10.0
 service-identity==1.0.0
 simplejson==3.6.5
 six==1.10.0

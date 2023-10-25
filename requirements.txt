@@ -149,7 +149,7 @@ SQLAlchemy==0.9.8
 stevedore==1.10.0
 tornado==4.2
 tweepy==2.3
-Twisted==14.0.2
+Twisted==23.8.0
 Twisted-Conch==14.0.2
 Twisted-Core==14.0.2
 Twisted-Lore==14.0.2
